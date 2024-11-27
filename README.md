@@ -15,3 +15,9 @@
   <h3 align="center">A HealthCare Management System</h3>
 
 </div>
+
+![Screenshot (278)](https://github.com/user-attachments/assets/4f5b9455-f6ba-4196-b370-87603dc1cdf4)
+![Screenshot (281)](https://github.com/user-attachments/assets/e71e7b47-5512-43e1-8658-6606f374bece)
+![Screenshot (282)](https://github.com/user-attachments/assets/911763ac-e2a2-4a2f-ac2a-f2daf79f97a1)
+![Screenshot (283)](https://github.com/user-attachments/assets/daf0a1d0-81ef-44d7-bf28-4e2aaea3fb34)
+
